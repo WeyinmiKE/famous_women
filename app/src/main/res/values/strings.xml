@@ -36,7 +36,7 @@
     <string name="irena">Irena Sendler</string>
     <string name="ilhan">Ilhan Omar</string>
     <string name="valentina">Valentina Tereshkova</string>
-    <string name="prof_dora">Professor Dora Nkem Akunyili</string>
+    <string name="prof_dora">Dora Akunyili</string>
     <string name="name10"> </string>
 
     <!--Persons proffesion -->
@@ -279,6 +279,7 @@
         \n(Sources: https://en.wikipedia.org/wiki/Dora_Akunyili; https://web.archive.org/web/20060507083714/http://www.kwenu.com/moesmemo/moe2004/dora_danger.htm) </string>
 
 
+
     <!--Menu Options -->
 
     <string name="about_application">About Application</string>
@@ -387,7 +388,6 @@
     <string name="answer16_1">1987</string>
     <string name="answer16_2">1954</string>
     <string name="answer16_3">1960</string>
-
 
     <!--About screen-->
     <string name="about_description">The Famous Women app contains interesting info and little quiz about different Famous Woman on the Earth.\n\nThis application was created as part of the UDACITY course - Google Developer Challenge Scholarship - Only by Ladies.\n\nApp was created on the initiative of MalgoskaG  https://github.com/MalgoskaG</string>
